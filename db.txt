@@ -1,0 +1,26 @@
+[
+  {
+    "_id": 3000,
+    "_name": "Peter",
+    "_password": "1234",
+    "scores": {
+      "art": 50
+    }
+  },
+  {
+    "_id": 1000,
+    "_name": "aaa",
+    "_password": "1234",
+    "scores": {
+      "math": 50
+    }
+  },
+  {
+    "_id": 2000,
+    "_name": "Evgeniy",
+    "_password": "123323",
+    "scores": {
+      "math": 100
+    }
+  }
+]
